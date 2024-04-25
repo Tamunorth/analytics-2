@@ -1,9 +1,9 @@
-import "./App.css";
+import Navbar from "./componets/Navbar";
 
 function App() {
   return (
     <div className="App">
-      <h1 className="col">New</h1>
+      <Navbar />
     </div>
   );
 }
